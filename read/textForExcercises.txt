@@ -1,0 +1,8 @@
+This file's only purpose is to
+be read by various scripts/commands.
+The content of th*s file is 
+therefore	futile and it doens't have t*
+make*** sense.	The wirter will provide different
+"character and separators" such as * ** ***
+or	tabs.
+Good luck with your exam!
